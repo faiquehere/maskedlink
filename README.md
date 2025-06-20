@@ -49,6 +49,7 @@ sudo apt install curl xdg-utils xclip
 
 ```bash
 git clone https://github.com/faiquehere/maskedlink
+cd maskedlink
 chmod +x maskedlink.sh
 ./maskedlink.sh
 ```
