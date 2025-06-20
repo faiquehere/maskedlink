@@ -7,6 +7,7 @@ A **Bash-based URL masking tool** designed for ethical use in cybersecurity demo
 ---
 ## 📸 Screenshot
 <img src="maskedlink.png">
+
 ## 🚀 Features
 
 - 📜 Menu-Based Interactive Interface
