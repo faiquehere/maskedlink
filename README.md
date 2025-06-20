@@ -5,7 +5,8 @@ A **Bash-based URL masking tool** designed for ethical use in cybersecurity demo
 > ⚠️ **Educational Use Only:** This tool is intended for ethical hacking and security training purposes only. Do **not** use it for malicious or illegal activity.
 
 ---
-
+## 📸 Screenshot
+<img src="maskedlink.png">
 ## 🚀 Features
 
 - 📜 Menu-Based Interactive Interface
